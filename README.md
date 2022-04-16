@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><p align="center"> HI FRIENDS 👋 , I'M 𝙋𝘼𝙉𝘿𝘼
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><p align="center"> 𝙃𝙄 𝙁𝙍𝙄𝙀𝙉𝘿𝙎 👋 , 𝙄'𝙈 𝙋𝘼𝙉𝘿𝘼
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 <p align="center">    
