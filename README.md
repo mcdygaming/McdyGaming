@@ -2,7 +2,7 @@
 <h1 align="center">𝙃𝙄 𝙁𝙍𝙄𝙀𝙉𝘿𝙎, 𝙄'𝙈 𝙋𝘼𝙉𝘿𝘼 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/Rexashh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Just+Newbie;But+I+Will+Keep+Learning;I%20|%20Like%20|%20CODING%20:);Lets%20Study;Together%20HEHEHE%20:)%20:)&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Rexashh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Just+Newbie;But+I+Will+Keep+Learning;I%20|%20Like%20|%20CODING%20:);Lets%20Study;Together%20:)&center=true&width=500&height=50"></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
