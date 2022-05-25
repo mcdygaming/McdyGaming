@@ -9,7 +9,7 @@
 [![Profile views](https://gpvc.arturio.dev/mcdygaming)](https://github.com/mcdygaming) 
 
 <p align="center">    
-    <img src="https://telegra.ph/file/2afdc5223c5ed48d8283b.jpg">   
+    <img src="https://telegra.ph/file/c7762d969e6dad75c43e8.jpg">   
 </p> 
            
 ## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/bangsatkuasa) 
